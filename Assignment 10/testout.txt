@@ -1,0 +1,4 @@
+1) Vowels :13
+2) Consonants:4
+3) Special characters:6
+4) Numbers :3
